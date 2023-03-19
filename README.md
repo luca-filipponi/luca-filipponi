@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hello! I'm [Your Name], a seasoned developer with over 10 years of experience in various industries, ranging from startups to large corporations such as Expedia, eBay, Elsevier, TransferWise, and Confluent. I have a passion for functional programming and clean, simple code, with expertise in backend development, database management, and SQL. I'm proficient in several programming languages, including Go, Scala, Java, Terraform, and JavaScript (with React).
+
+In addition to my professional work, I have a strong interest in the crypto space and have experience working with append-only ledger tables to keep track of financial data. This experience has given me a deep understanding of how to design and implement efficient and secure systems that are resilient to tampering.
+
+Throughout my career, I've been dedicated to delivering high-quality, well-designed code that is both maintainable and extensible. I firmly believe that the best code is code that is easy to read and understand, and I always strive to write code that is concise and expressive.

@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 Hi there! I'm Luca, a developer with 10+ years of experience. I've worked in startups and big companies such as Expedia, eBay, Elsevier, TransferWise and currently in Confluent. My passion lies in functional programming and clean, maintainable code, and I specialize in backend development, database management. I'm proficient in Go, Scala, Java and Javascript. 
 
 In addition to my core skills, I also have extensive experience working with distributed systems and event-driven architectures and database and good knowledge of Terraform. I'm well-versed in the challenges and compromises involved in designing scalable and fault-tolerant systems.
-
-Throughout my career, I've been dedicated to delivering high-quality code that is easy to maintain and extend. I strive to write concise, expressive code that is easy to read and understand.
